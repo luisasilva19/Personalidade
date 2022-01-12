@@ -1,0 +1,30 @@
+
+
+header { background-color: #E3735E  } 
+
+ header h1 {color: #FAC898 } 
+ header h1 {text-align: center;}
+ header h1 {font-size:42px}
+ header h1 {font-family: Poppins }
+
+header img  { 
+border-radius: 230px; /* rounded corners */
+width: 380px} 
+header img {text-align: center;}
+
+main h2 { color:#228B22 } 
+main h2 {font-family: poppins}
+main h2 {font-size: 20px}
+
+main p {font-size: 18px}
+main p {font-family: calibri light}
+
+main h3 {font-family: calibri light}
+main h3 {font-size: 14px}
+
+main ol {font-family: calibri light}
+main ol {font-size: 18px}
+
+
+main ul {font-family: calibri light}
+main ul {font-size: 18px}
