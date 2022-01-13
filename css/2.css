@@ -1,29 +1,43 @@
 
 
-header { background-color: #E3735E  } 
+.site  {background:#E3735E  width:30px padding: 20px; border: solid 5px #E3735E; text-align: center;}
+
+header { background-color: #E3735E } 
+header {text-align: center;}
 
  header h1 {color: #FAC898 } 
- header h1 {text-align: center;}
  header h1 {font-size:42px}
  header h1 {font-family: Poppins }
+ header h1 {text-align: center;}
+
+
 
 header img  { 
-border-radius: 230px; /* rounded corners */
-width: 380px} 
-header img {text-align: center;}
+border-radius: 600px; 
+width: 260px }
+
+
+.legenda {font-style: italic; color: #E3735E;} 
 
 main h2 { color:#228B22 } 
 main h2 {font-family: poppins}
 main h2 {font-size: 20px}
+main
 
-main p {font-size: 18px}
+
+main h3 {font-family:calibri light; } 
+
+
+main img {width: 500px ; } 
+
+main p {font-size: 18px} 
 main p {font-family: calibri light}
 
-main h3 {font-family: calibri light}
-main h3 {font-size: 14px}
 
 main ol {font-family: calibri light}
-main ol {font-size: 18px}
+main ol {font-size: 18px;} 
 
-main ul {família de fontes: 'Mochiy Pop P One', sem serifa;
-font-weight: 400}
+
+
+main ul {font-family: calibri light}
+main ul {font-size: 18px}
